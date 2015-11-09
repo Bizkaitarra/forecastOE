@@ -15,6 +15,18 @@ Nota: Para responder mejor a las expectativas del usuario se aceptan también ot
       Sin embargo y para evitar problemas con las codificaciones y no teniendo definido el entorno final de la aplicación no se permite el uso de tildes en los parámetros.
 
 Ejemplos:
-	- php forecast.php Bilbao
-	- php forecast.php "San Sebastian"
-	- php forecast.php Vitoria-Gasteiz
+
+Bilbao:
+```
+php forecast.php Bilbao
+```
+
+San Sebastián:
+```
+php forecast.php "San Sebastian"
+```
+
+Vitoria-Gasteiz
+```
+php forecast.php Vitoria-Gasteiz
+```	
