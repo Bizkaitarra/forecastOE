@@ -10,7 +10,7 @@ class forecastOETest extends PHPUnit_Framework_TestCase{
     
     public function test() {
         
-        require_once 'clasess/forecastOE.php';
+        require_once 'clases/forecastOE.php';
        
         $expected = array(
             1 => array('description' => 'Parcialmente nuboso: entre 2/8 y 4/8 de cielo cubierto','max' => 21,'min' => 15,'url' => '/contenidos/recurso_tecnico/tdtrtc/es_rtc/images/02.gif'),
