@@ -1,5 +1,5 @@
 <?php 
-require_once './clasess/forecastOE.php';
+require_once './clases/forecastOE.php';
 $ciudad = "";
 //Get the parameter.
 if (isset($argv)) {
