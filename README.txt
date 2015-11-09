@@ -1,7 +1,8 @@
-# Forecast the Open Data Euskadi
+Forecast the Open Data Euskadi
 ======================
 Practica que obtiene la previsión del tiempo de Open Data Euskadi usando el siguiente XML(http://opendata.euskadi.eus/contenidos/prevision_tiempo/met_forecast/opendata/met_forecast.xml)
-## 
+
+
 Instrucciones
 ============
 
@@ -17,16 +18,12 @@ Nota: Para responder mejor a las expectativas del usuario se aceptan también ot
 Ejemplos:
 
 Bilbao:
-```
 php forecast.php Bilbao
-```
+
 
 San Sebastián:
-```
 php forecast.php "San Sebastian"
-```
 
-Vitoria-Gasteiz
-```
+
+Vitoria-Gasteiz:
 php forecast.php Vitoria-Gasteiz
-```	
