@@ -145,7 +145,7 @@ class forecastOE {
         case 'es':
                 $msg = "La prevision es la siguiente:";
                 $msg .= "\n" . $this->getDescripcion();
-                $msg .= "\n". "\n" . "Temperatura máxima " . $this->getMaxTemp() . " gradosº y mínimas de " . $this->getMinTemp()." grados";			
+                $msg .= "\n". "\n" . "Temperatura máxima " . $this->getMaxTemp() . " grados y mínimas de " . $this->getMinTemp()." grados";			
                 return $msg;
                 break;
         case 'eu':
