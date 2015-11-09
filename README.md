@@ -1,8 +1,6 @@
 # Forecast the Open Data Euskadi
 ======================
 Practica que obtiene la previsión del tiempo de Open Data Euskadi(https://core.telegram.org/bots/api)
-
-
 ## 
 Instrucciones
 ============
@@ -16,5 +14,3 @@ Lanzar en la consola de comandos el fichero PHP forecast.php añadiendo uno de l
 Nota: Para responder mejor a las expectativas del usuario se aceptan también otros valores como "Vitoria" , "Gasteiz" , "Donostia" , "Bilbo", "Donostia - San Sebastian".
       Sin embargo y para evitar problemas con las codificaciones y no teniendo definido el entorno final de la aplicación no se permite el uso de tildes en los parámetros.
 
-
-# forecastOE 
